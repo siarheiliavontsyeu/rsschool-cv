@@ -47,6 +47,7 @@ My passion is online learning. I can find the information I need and learn on my
 ## Education
 
 - Belarusian State University of Informatics and Radioelectronics,   Faculty of infocommunications (2005-2010) 
+- RS Schools Course «JavaScript/Front-end.»
 - Self-learning
   - [codewars.com](https://www.codewars.com/users/vviiiii/stats)    
   - [learn.javascript.ru](https://learn.javascript.ru/)
